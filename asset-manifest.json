@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ajaykumarsunki.github.io/react-datatable/static/css/main.931786ed.chunk.css",
+    "main.js": "/ajaykumarsunki.github.io/react-datatable/static/js/main.904c6bcc.chunk.js",
+    "main.js.map": "/ajaykumarsunki.github.io/react-datatable/static/js/main.904c6bcc.chunk.js.map",
+    "runtime-main.js": "/ajaykumarsunki.github.io/react-datatable/static/js/runtime-main.d7a3c9ac.js",
+    "runtime-main.js.map": "/ajaykumarsunki.github.io/react-datatable/static/js/runtime-main.d7a3c9ac.js.map",
+    "static/js/2.934a643d.chunk.js": "/ajaykumarsunki.github.io/react-datatable/static/js/2.934a643d.chunk.js",
+    "static/js/2.934a643d.chunk.js.map": "/ajaykumarsunki.github.io/react-datatable/static/js/2.934a643d.chunk.js.map",
+    "index.html": "/ajaykumarsunki.github.io/react-datatable/index.html",
+    "static/css/main.931786ed.chunk.css.map": "/ajaykumarsunki.github.io/react-datatable/static/css/main.931786ed.chunk.css.map",
+    "static/js/2.934a643d.chunk.js.LICENSE.txt": "/ajaykumarsunki.github.io/react-datatable/static/js/2.934a643d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7a3c9ac.js",
+    "static/js/2.934a643d.chunk.js",
+    "static/css/main.931786ed.chunk.css",
+    "static/js/main.904c6bcc.chunk.js"
+  ]
+}
